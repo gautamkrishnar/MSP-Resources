@@ -11,6 +11,6 @@ All resources in this repository can be modified for your use.
 
 #### TODO
 
-- [] Make Readme more descriptive
-- [] Add more resources
+- [ ] Make Readme more descriptive
+- [ ] Add more resources
 
